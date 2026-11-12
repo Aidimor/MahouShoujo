@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1740d21ea215dd54591a28af38b595b0, type: 3}
+  m_Name: Hikari
+  m_EditorClassIdentifier: Assembly-CSharp::MahouShoujoData
+  cardName: Hikari Lumina
+  artwork: {fileID: 9007541866834527695, guid: a57f29a0848a27540bc6ac035bf7743f, type: 3}
+  effectValue: 0
+  isGlobalBluff: 0
+  transformationBackground: "Antes: Una estudiante de preparatoria ordinaria y t\xEDmida
+    que odiaba llamar la atenci\xF3n y prefer\xEDa pasar desapercibida en el fondo
+    del sal\xF3n.\r\n\r\nDespu\xE9s: Fue obligada a vincularse al Relicario Esmeralda
+    por un contrato misterioso para salvar su ciudad. Aunque su mente sigue siendo
+    la misma y se sonroja de p\xE1nico ante el peligro, su cuerpo se transforma de
+    forma involuntaria en una combatiente blindada bajo presi\xF3n extrema."
+  ultimateDescription: "Inmune a da\xF1o lo que queda de este turno."
+  _initialCards:
+  - {fileID: 11400000, guid: 36937926fdbc75d4c90eb772324b7010, type: 2}
+  - {fileID: 11400000, guid: cc73c8aff0b0d914ba96dc776caa8daa, type: 2}
+  - {fileID: 11400000, guid: cc73c8aff0b0d914ba96dc776caa8daa, type: 2}
+  - {fileID: 11400000, guid: 36937926fdbc75d4c90eb772324b7010, type: 2}
+  - {fileID: 11400000, guid: 36937926fdbc75d4c90eb772324b7010, type: 2}

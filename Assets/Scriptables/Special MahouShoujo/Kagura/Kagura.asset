@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1740d21ea215dd54591a28af38b595b0, type: 3}
+  m_Name: Kagura
+  m_EditorClassIdentifier: Assembly-CSharp::MahouShoujoData
+  cardName: Kagura
+  artwork: {fileID: -103055534132879870, guid: 7ef058721cb8cc64a92ac59f2a1b8c7e, type: 3}
+  effectValue: 0
+  isGlobalBluff: 0
+  transformationBackground: "Antes de la transformaci\xF3n: Una estudiante rebelde
+    y de car\xE1cter fuerte, constantemente frustrada por las injusticias de su entorno
+    escolar y con una energ\xEDa desbordante.\r\n\r\nDespu\xE9s de la transformaci\xF3n:
+    Una hechicera de alta intensidad con coletas rubias masivas y detalles rojo carmes\xED,
+    cuya ira se convierte en la fuente de un poder ofensivo implacable."
+  ultimateDescription: Ahora es mas rapida. El siguiente ataque pega antes que el
+    del enemigo.
+  _initialCards:
+  - {fileID: 11400000, guid: 36937926fdbc75d4c90eb772324b7010, type: 2}
+  - {fileID: 11400000, guid: 36937926fdbc75d4c90eb772324b7010, type: 2}
+  - {fileID: 11400000, guid: 36937926fdbc75d4c90eb772324b7010, type: 2}
+  - {fileID: 11400000, guid: cc73c8aff0b0d914ba96dc776caa8daa, type: 2}
+  - {fileID: 11400000, guid: cc73c8aff0b0d914ba96dc776caa8daa, type: 2}

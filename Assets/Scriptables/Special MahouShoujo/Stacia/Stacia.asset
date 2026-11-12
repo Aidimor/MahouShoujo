@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1740d21ea215dd54591a28af38b595b0, type: 3}
+  m_Name: Stacia
+  m_EditorClassIdentifier: Assembly-CSharp::MahouShoujoData
+  cardName: Stacia
+  artwork: {fileID: -883827991362769686, guid: 36cf58db3d6d8f54d9cefe30207f296e, type: 3}
+  effectValue: 0
+  isGlobalBluff: 0
+  transformationBackground: "Antes: Una oficial de polic\xEDa de \xE9lite, fr\xEDa,
+    sumamente met\xF3dica y obediente a las cadenas de mando, encargada por sus superiores
+    de probar un dispositivo experimental de \"supresi\xF3n y combate\" dise\xF1ado
+    para neutralizar a las verdaderas chicas m\xE1gicas.\r\n\r\nDespu\xE9s: Durante
+    su primera misi\xF3n de campo, el comando central activ\xF3 el dispositivo a
+    m\xE1xima potencia para forzarla a una transformaci\xF3n de combate permanente.
+    Sin embargo, el n\xFAcleo sobrecarg\xF3 su voluntad: el lavado de cerebro fall\xF3,
+    alter\xF3 su mente y su cuerpo de forma irreversible, y la dej\xF3 atrapada permanentemente
+    en su forma de chica m\xE1gica. Ahora, lejos de obedecer las \xF3rdenes de la
+    polic\xEDa, se ha convertido en una antih\xE9roina c\xEDnica, indomable y ca\xF3tica
+    que usa sus nuevos poderes de combate para hacer las cosas a su propia manera,
+    ignorando por completo la autoridad que una vez jur\xF3 servir."
+  ultimateDescription: "3 disparos que hace x canitidad de da\xF1o."
+  _initialCards:
+  - {fileID: 11400000, guid: cc73c8aff0b0d914ba96dc776caa8daa, type: 2}
+  - {fileID: 11400000, guid: cc73c8aff0b0d914ba96dc776caa8daa, type: 2}
+  - {fileID: 11400000, guid: 36937926fdbc75d4c90eb772324b7010, type: 2}
+  - {fileID: 11400000, guid: 36937926fdbc75d4c90eb772324b7010, type: 2}
+  - {fileID: 11400000, guid: 36937926fdbc75d4c90eb772324b7010, type: 2}

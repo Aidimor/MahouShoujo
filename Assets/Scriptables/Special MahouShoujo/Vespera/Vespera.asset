@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1740d21ea215dd54591a28af38b595b0, type: 3}
+  m_Name: Vespera
+  m_EditorClassIdentifier: Assembly-CSharp::MahouShoujoData
+  cardName: Vespera
+  artwork: {fileID: 8695572890186924741, guid: 77b1354f43c217b48be94a9c64459ca7, type: 3}
+  effectValue: 0
+  isGlobalBluff: 0
+  transformationBackground: "Antes: Un hombre maduro de familia, formal y tradicional,
+    que trabajaba turnos dobles en una oficina y lidiaba en silencio con la presi\xF3n
+    agobiante de mantener econ\xF3micamente a su hogar, sin creer en fantas\xEDas
+    ni magia.\r\n\r\nDespu\xE9s: Tras firmar un contrato financiero con una oscura
+    corporaci\xF3n interdimensional (creyendo que era un pr\xE9stamo ordinario),
+    cay\xF3 en una cl\xE1usula m\xEDstica oculta que activ\xF3 un Forced TSF absoluto.
+    Su cuerpo humano desapareci\xF3 por completo y fue reemplazado a la fuerza por
+    el de una soberana m\xE1gica imponente, elegante y de alta jerarqu\xEDa. Aunque
+    ahora luce como una mujer madura de la realeza p\xFArpura y dorada, en su mente
+    sigue siendo el mismo padre de familia estresado que solo quiere que la partida
+    acabe r\xE1pido para poder pagar los recibos y volver a casa a rega\xF1ar a sus
+    hijos."
+  ultimateDescription: Junta todo el ataque recivido y devuelve la mitad.
+  _initialCards:
+  - {fileID: 11400000, guid: cc73c8aff0b0d914ba96dc776caa8daa, type: 2}
+  - {fileID: 11400000, guid: cc73c8aff0b0d914ba96dc776caa8daa, type: 2}
+  - {fileID: 11400000, guid: 36937926fdbc75d4c90eb772324b7010, type: 2}
+  - {fileID: 11400000, guid: 36937926fdbc75d4c90eb772324b7010, type: 2}
+  - {fileID: 11400000, guid: 36937926fdbc75d4c90eb772324b7010, type: 2}
